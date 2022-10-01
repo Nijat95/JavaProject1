@@ -12,6 +12,7 @@ public class ABC {
         System.out.println("However they're not cheap at " + PriceofMotorcycle);
         System.out.println("It took me" + " 2 " + "years to build ");
         System.out.println(34 * 1971);
+        System.out.println("Kawasaki h1 is the best");
 
     }
 }
