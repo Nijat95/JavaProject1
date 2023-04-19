@@ -6,7 +6,7 @@ public class SwitchStatement {
 
         Scanner sc = new Scanner(System.in);
         // switch
-    /*
+
         int number = 4;
         switch (number) {
             case 1:
@@ -22,13 +22,12 @@ public class SwitchStatement {
                 System.out.println("non was found");
         }
 
-         */
+
 
         // ask user to enter a char
         // write java code (switch statement) to find out if the char is vowel or cons
         // Aa Ee Uu Oo Ii
-     /*
-        Scanner sc = new Scanner(System.in);
+
         System.out.println("Please enter a char: ");
         char c = sc.next().charAt(0);
         switch (c) {
@@ -58,8 +57,7 @@ public class SwitchStatement {
         System.out.println(c + " is a constant");
     }
 
-       */
-        /*
+
         System.out.println("Enter a number between 1 and 7");
         int num1 = sc.nextInt();
         switch (num1) {
@@ -88,8 +86,7 @@ public class SwitchStatement {
             default:
                 System.out.println("Incorrect Value");
         }
-        */
-        /*
+
         System.out.println("Enter a number between 1 and 12");
         int number1 = sc.nextInt();
         switch (number1) {
@@ -117,7 +114,7 @@ public class SwitchStatement {
                 System.out.println("Invalid month");
         }
 
-        */
+
         System.out.println("Please enter a Grade: ");
         char G = sc.next().charAt(0);
         switch (G) {

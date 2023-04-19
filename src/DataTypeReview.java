@@ -16,4 +16,6 @@ public class DataTypeReview {
 
     }
 
+    public static class SwitchStatementPractice {
+    }
 }

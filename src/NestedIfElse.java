@@ -34,7 +34,7 @@ public class NestedIfElse {
             if (Number1 > Number3) {
                 System.out.println(Number1 + " Is Greatest number");
             }
-        } else if (Number2 > Number3) {
+        } else if (Number2 > Number3) {1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 ducati
             if (Number2 > Number1) {
                 System.out.println(Number2 + " is the Greatest Number");
             }
